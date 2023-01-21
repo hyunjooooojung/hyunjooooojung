@@ -27,7 +27,7 @@
 </div>
 <br>
 <div align=center>
-	<p> 👩🏻‍💻 SNS & Portfolio 👩🏻‍💻 </p>
+	<p> 👩🏻‍💻 SNS & Notion 👩🏻‍💻 </p>
 </div>
 <div align=center>
 	<a href="https://hyunjoo3107.tistory.com/">
